@@ -2,6 +2,7 @@ site_name: Something
 nav:
   - Home: index.md
   - About: about.md
+  - Archive: archive.md
 theme: 
     name: readthedocs
     custom_dir: theme_overrides
