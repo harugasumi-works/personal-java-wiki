@@ -24,7 +24,7 @@ function renderTable() {
   body.innerHTML = articles.map(a => `
     <tr>
       <td>${a.date}</td>
-      <td><a href="articles/${a.slug}/">${a.title}</a></td>
+      <td><a href="../articles/${a.slug}/">${a.title}</a></td>
       <td>${a.version}</td>
       <td>${a.pkg}</td>
     </tr>
