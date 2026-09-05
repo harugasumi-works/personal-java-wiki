@@ -4,9 +4,11 @@ nav:
   - About: about.md
   - Archive: archive.md
 theme: 
-    name: readthedocs
-    custom_dir: theme_overrides
+    name: material
 plugins:
   - search:
       lang: en
       separator: '[\s\-\.]+' # Optional: customize how words are split
+      pipeline:
+        - stemmer
+        - trimmer
