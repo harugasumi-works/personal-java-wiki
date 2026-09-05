@@ -1,6 +1,6 @@
-# Bout
+# About
 
-this is about
+this is me
 
 ## Utve tanta solis Pleiadum
 
