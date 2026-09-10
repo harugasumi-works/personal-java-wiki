@@ -1,7 +1,7 @@
 ---
 date: 2026-09-01
 categories:
-  - Java 25
+  - Java 26
 tags:
   - java.util.concurrent
 ---
