@@ -2,11 +2,19 @@ site_name: Something
 nav:
   - Home: index.md
   - About: about.md
-  - Archive: archive.md
-theme: 
+  - Blog: blog/index.md
+theme:
     name: material
+    features:
+        - navigation.indexes
 plugins:
   - search:
       pipeline:
         - stemmer
         - trimmer
+  - tags
+  - blog:
+      blog_dir: blog
+      archive_date_format: MMMM yyyy
+      categories_allowed:
+        - Java 26
