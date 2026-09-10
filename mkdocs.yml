@@ -2,7 +2,9 @@ site_name: Something
 nav:
   - Home: index.md
   - About: about.md
-  - Blog: blog/index.md
+  - Blog:
+    - blog/index.md
+  - Tags: tags.md
 theme:
     name: material
     features:
