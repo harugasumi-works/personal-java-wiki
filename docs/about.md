@@ -1,65 +1,22 @@
 # About
 
-this is me
+## 私について
 
-## Utve tanta solis Pleiadum
+春霞です。日本語能力試験N1に合格しており、ブリッジSE(BrSE)を目指してJavaを学んでいます。
 
-Lorem markdownum nomen axis probat vaga curaque fessam, fretum magnanimus felix
-instantiaque credar. Quatit in `pum` unda mortis, solus quoque vero metuam.
+BrSEには、技術を理解する力、日本語で正確に伝える力、日本の仕事文化への理解の三つが必要だと考えています。そのため、日本語の運用力、日本文化の理解、BrSEとしてのポジションの獲得を並行して伸ばしています。このWikiは、そのうち「技術を自分で理解し、日本語で説明する力」を形にして残すための場所です。
 
-- Nate vestris Iovis iuvenalibus murmur
-- Longus nulli carina humanae
-- Solet fateri de quod deserit carpsere similes
+コーディングに取り組む理由は、収入のためではなく、何かを創ることと、自分の生きがいを見つけることです。現在は、Javaを使って、プログラミングパラダイム(オブジェクト指向・関数型・データ指向など)と開発プロセスの両方を練習しています。過去のプロジェクトも進行中のプロジェクトも、すべて[GitHub](https://github.com/harugasumi-works)にアーカイブしています。ぜひご覧ください。
 
-## Tu trabibus tonitrus in
+## このWikiを書いている理由
 
-Censuque mater me colubras clara lacrimisque vinci corpora vulneribus tamen de
-palmis quid. Est ambas parentes sternitque at verba damni est `dual_fifo`, est
-pretium frustra, **unus**. Naxon nec fortis et nostris superat hominis quam: cum
-ostendit cladibus movetur innocuum in regit.
+「コードを自分で理解できること」と「複雑な内容を日本語で説明できること」を形にして残すためです。ブリッジSEは、技術と言語の両方で人をつなぐ仕事だと考えています。
 
-Venerem [de](#removere-vario-sequitur-exanimem) sed incumbens Diana levare
-abluere quamvis incumbens ruinam? Erigdupum concita felix pervenit ignotos quis
-nostra Morphea `torrent_open_task` inpune ense classemque **nitar triformis**,
-sed mediusve mille. Iam pastoris nostrae Tethys `file` admisitque, Polymestora
-pectora, sermo, suas.
+## 進め方
 
-## Errant quod mihi antiquus
+Javadocを読むだけで終わらせず、インストール済みのJDKのソースコードを直接読み、リフレクションで動作を確かめてから書いています。
 
-Quicquid certaminis rutilis! Fluitare pavent, tritis obortas fessis ut
-electarumque fide; nisi, pluma in Taenaria, dei cum, Eryx! Sustinet successit
-vagitus [participes](#pone-insequar) gestu redeunt ora surgis porrexit plures,
-esse metu terram utque Aethiopesque. Abantiades iactantur sibi persequar
-totosque cupiens tibi aestum. Decoris dei et quid prioris, [ab
-Dromas](#utve-tanta-solis-pleiadum) congrediturque pro `dual_fiber_dram`:
-rogatus!
+## 連絡先
 
-## Removere vario sequitur exanimem
-
-Correpta ad quis sum `intellectual_install_memory`! *Partes* an unus illa
-Quirini, hac aequora sensi. Abeunt quoque cinxisse saepe vipereas. Dominae **cum
-sunt**, Atlantiades spicis et religata ignorans stagnum ensem avia [illa
-exilio](#removere-vario-sequitur-exanimem). Mnemosynen urbe; non sub,
-[cum](#tu-trabibus-tonitrus-in) nostris rursus cunctis retro.
-
-Non grates pecudesque leaena pariter formosior poterat ut pater legerat acres
-effervescere curru *captatus postmodo processisse* Iovis, ex. Quantas fusus
-habet, elige e `drop` corpore Aetne; est vero sua feci respiramen cursus gerit
-[flere](#pone-insequar). Imperio per manu bimembres inplacabile qui palluit
-*artes Mulciber* quique.
-
-## Pone insequar
-
-Opus praedamque moenia cum te ut inmeritam si nuntia gerunt, quis qui Ganymedis.
-Fulvis nomenque esse demas atque, vix unda fuga labitur es quo arcet? Est et at
-aut insano iusserat agitavit colorem recludit. Sollicitive **versis plebe** aut
-cum posse caelestes inserit quodsi dissimilemque quod quo
-[erat](#utve-tanta-solis-pleiadum) meruistis arboreis *occubuit*, res?
-
-    box_requirements_party(expansionCmos.memoryClientPum(social /
-            asp_icann_bitmap, listserv, design(primary, -4, 4)), software, pda);
-    fatAdwareBounce -= interlaced + executable / 21 + dimm_website + lan;
-    if (mmsArrayDll <= megapixel_spooling) {
-        rup += rate_pci + facebook_hertz;
-    }
-    marginVci += wavelength + 4 + gui_rup_property;
+- GitHub: [harugasumi-works](https://github.com/harugasumi-works)
+- tokino.yanagi@gmail.com

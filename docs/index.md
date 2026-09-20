@@ -1,17 +1,17 @@
-# MkLorum
+# 【サイト名】
 
-For full documentation visit [mkdocs.org](https://www.mkdocs.org).
+JDKのソースコードを直接読み、Java APIの内部実装を一つずつ解き明かしていくWikiです。
 
-## Commands
+Javadocには「何ができるか」が書かれています。このWikiが扱うのは「なぜそう動くのか」です。privateフィールドの役割、コンストラクタの引数とデフォルト値、メソッドの中身を、ソースコードの読解と、リフレクションによる実行時の確認で説明します。
 
-* `mkdocs new [dir-name]` - Create a new project.
-* `mkdocs serve` - Start the live-reloading docs server.
-* `mkdocs build` - Build the documentation site.
-* `mkdocs -h` - Print help message and exit.
+## 各ページの構成
 
-## Project layout
+(未定)
 
-    mkdocs.yml    # The configuration file.
-    docs/
-        index.md  # The documentation homepage.
-        ...       # Other markdown pages, images and other files.
+## 想定読者
+
+APIの使い方だけを知りたい方向けではありません。使い方の先にある「中身」を知りたい方、エラーの原因を自分で追えるようになりたい方のためのWikiです。
+
+## 環境について
+
+内部実装はJDKのバージョンによって変わることがあります。使用しているJavaのバージョンとJVM引数は、最初の記事にまとめています。

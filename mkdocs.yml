@@ -1,4 +1,4 @@
-site_name: Something
+site_name: Java内部実装Wiki
 nav:
   - Home: index.md
   - About: about.md
