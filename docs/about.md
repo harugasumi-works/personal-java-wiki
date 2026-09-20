@@ -19,4 +19,4 @@ Javadocを読むだけで終わらせず、インストール済みのJDKのソ�
 ## 連絡先
 
 - GitHub: [harugasumi-works](https://github.com/harugasumi-works)
-- tokino.yanagi@gmail.com
+- Email: tokino.yanagi@gmail.com
